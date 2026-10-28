@@ -1,0 +1,16 @@
+{
+  "items": [
+    {"id":1,"kind":"market","title":"아이패드 9세대 64GB","subtitle":"수업 필기용으로 사용했습니다. 화면 상태 양호합니다.","price":"180,000원","status":"판매 중","location":"신촌동 · 연세대학교","image":"https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800","tags":["디지털기기","대학생 추천"]},
+    {"id":2,"kind":"market","title":"전공 서적 컴퓨터공학","subtitle":"이번 학기에 사용한 전공 책입니다. 필기 조금 있습니다.","price":"8,000원","status":"판매 중","location":"연세대학교 정문","image":"https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800","tags":["도서","전공 서적"]},
+    {"id":3,"kind":"market","title":"미니 책상 스탠드","subtitle":"기숙사에서 사용하기 좋은 작은 LED 스탠드입니다.","price":"5,000원","status":"예약 중","location":"신촌역 근처","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800","tags":["생활용품","기숙사"]},
+    {"id":4,"kind":"market","title":"무선 키보드","subtitle":"정상 작동하며 구성품은 키보드와 USB 수신기입니다.","price":"12,000원","status":"판매 중","location":"연세대학교 학생회관","image":"https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800","tags":["디지털기기","컴퓨터"]},
+    {"id":5,"kind":"wanted","title":"계산기 구해요","subtitle":"공학용 계산기를 찾고 있어요. 사용감 있어도 괜찮습니다.","price":"희망가 15,000원 이하","status":"구매 희망","location":"연세대학교 캠퍼스","image":"https://images.unsplash.com/photo-1587145820266-a5951ee6f620?w=800","tags":["디지털기기","구해요"]},
+    {"id":6,"kind":"wanted","title":"기숙사 미니 선풍기 구해요","subtitle":"작동에 문제 없는 미니 선풍기를 구합니다.","price":"희망가 10,000원 이하","status":"구매 희망","location":"신촌동","image":"https://images.unsplash.com/photo-1618941716938-b165ad6a3a90?w=800","tags":["생활용품","구해요"]},
+    {"id":7,"kind":"auction","title":"블루투스 헤드폰 경매","subtitle":"상태 양호한 헤드폰입니다. 경매 UI를 보여 주기 위한 예시 상품입니다.","price":"시작가 20,000원","status":"경매 진행 중 · 예시","location":"연세대학교 근처","image":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800","tags":["디지털기기","경매"]},
+    {"id":8,"kind":"auction","title":"기계식 키보드 경매","subtitle":"키보드 경매 예시 화면입니다. 실제 입찰은 진행되지 않습니다.","price":"시작가 15,000원","status":"경매 진행 중 · 예시","location":"신촌동","image":"https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=800","tags":["디지털기기","경매"]}
+  ],
+  "notes": [
+    {"id":1,"itemId":1,"text":"상품 상태: 화면 양호, 충전 정상 (예시 정보)","date":"2026-10-28"},
+    {"id":2,"itemId":2,"text":"직거래 장소는 학교 정문으로 설정한 예시입니다.","date":"2026-10-28"}
+  ]
+}

@@ -1,0 +1,11 @@
+# 자가 평가 체크리스트
+- [ ] Flutter 앱이 정상 실행됨
+- [ ] json-server GET으로 상품 목록을 가져옴
+- [ ] 로딩·오류·빈 상태 확인
+- [ ] 검색 및 카테고리 필터 확인
+- [ ] 600dp 이상 GridView / 좁은 화면 ListView 확인
+- [ ] 상품 상세로 Navigator.push 이동
+- [ ] 구해요 / 경매는 mock data만 사용
+- [ ] POST/PUT/DELETE, 로그인, 결제, 영구 저장 없음
+- [ ] 실제 실행 화면 캡처를 docs/screenshots에 추가
+- [ ] 실제 AI 반론과 재검토 기록을 prompt-log.md 및 self-argumentation.md에 반영
